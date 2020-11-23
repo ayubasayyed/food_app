@@ -69,7 +69,7 @@ class _HomeState extends State<Home> {
                   ),
                   title: TextField(
                     decoration: InputDecoration(
-                      hintText: "Find food and restaurants",
+                      hintText: "Find food and restaurants  ",
                       border: InputBorder.none,
                     ),
                   ),
